@@ -5,7 +5,7 @@ This repository is a collection of my Python learning journey. It includes notes
 ---
 
 ## 📒 Notes
-- **[basic_concepts.md](./basic_concepts.md)**: Covers output, variables, type casting, and string manipulation.
+- **[basic_concepts.md](Bacis_concepts.md)**: Covers output, variables, type casting, and string manipulation.
 
 ---
 
