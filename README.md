@@ -12,7 +12,7 @@ This repository is a collection of my Python learning journey. It includes notes
 ## 🛠️ Mini Projects
 | Project | Description |
 |--------|-------------|
-| [`calculator.py`](projects/calculator.py) | A basic calculator using user input |
+| [`calculator.py`](./calculator.py) | A basic calculator using user input |
 | [`advanced_calculator.py`](projects/advanced_calculator.py) | Calculator using user-chosen operations |
 | [`story_generator.py`](projects/story_generator.py) | Interactive story generator |
 | [`greeting_time.py`](projects/greeting_time.py) | Greets user based on current time |
